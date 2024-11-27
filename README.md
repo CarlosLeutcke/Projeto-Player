@@ -5,5 +5,5 @@ Professor: Valdir Junior.
 Nome: Carlos Henrique Legutcke Filho.
 Turma:B.
 RA: 1988772.
-Nome: José henrique de Castro Fernandes.
+Nome: José Henrique de Castro Fernandes.
 RA:1994033.
